@@ -1,0 +1,93 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://i.pinimg.com/474x/0b/bf/f9/0bbff9c56cbb387eecb6d300933dd576.jpg');
+  background-color: #add8e6;
+  background-size: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 10px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #FFA500;
+  width: 600px;
+  position: absolute;
+  top: 80px;
+  right: 600px;
+ 
+}
+
+.page-subtitle {
+  color: #FFE4E1;
+  width: 600px;
+  position: absolute;
+  top: 150px;
+  right: 580px;
+}
+
+.notas{ 
+  color: #FFE4E1;
+  background: #000000;
+  border-style: outset;
+  border-color: #FFA500;
+  width: 250px;
+  position: absolute;
+  top: 225px;
+  right: 750px; }
+
+.page-logo {
+  width: 300px;
+  position: absolute;
+  top: 500px;
+  right: 750px;
+  
+}
+
+.alura-logo {
+  width: 80px;
+  position: absolute;
+  top: 10px;
+  right: 1000px;
+}
+
+.insta { 
+  width: 80px;
+  position: absolute;
+  top: 10px;
+  right: 900px;  }
+
+  .botao {
+  top: 20px;
+  padding: 10x 15px;
+  border-radius: 18px;
+  background: #000000;
+  color: white;
+  border-style: outset;
+  border-color: #FFA500;
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  right: -250px;
+  font: bold15px arial,sans-serif;
+  text-shadow: none; }
+
+  .limpar {
+  top: 80px;
+  padding: 10x 15px;
+  border-radius: 18px;
+  background: #000000;
+  color: white;
+  border-style: outset;
+  border-color: #FFA500;
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  right: -250px;
+  font: bold15px arial,sans-serif;
+  text-shadow: none; }
